@@ -16,7 +16,6 @@ You may find:
 👉 Please visit my **primary GitHub profile** for:
 - Personal and freelance projects
 - Passion projects and software experiments
-- My polished, recruiter-friendly portfolio
 
 🔗 **[github.com/mattclement-dev](https://github.com/mattclement-dev)**
 
